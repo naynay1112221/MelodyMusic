@@ -89,7 +89,7 @@ To use the API, you need an API key. Follow these steps to obtain one:
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/naynay1112221/MelodyMusic && cd AviaxMusic
    ```
 6. **Install Requirements**
    ```bash
